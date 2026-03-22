@@ -1,9 +1,7 @@
  Hi there 👋
 
 
-**shaaahin-ali/shaaahin-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 <h1 align="center">Hi 👋, I'm Shahin ali</h1>
 <h3 align="center">A passionate software developer from India</h3>
