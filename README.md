@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/shaaahin_ali" target="blank"><img src="https://img.shields.io/twitter/follow/shaaahin_ali?logo=twitter&style=for-the-badge" alt="shaaahin_ali" /></a> </p>
 
-- 🔭 I’m currently working on **health.ai**
+- 🔭 I’m currently working on **DeepSeek**
 
-- 🌱 I’m currently learning **Frameworks,Machine learning etc.**
+- 🌱 I’m currently learning **Frameworks,Machine learning,Cloud Computing etc.**
 
 - 📫 How to reach me **shahinali.tp@gmail.com**
 
