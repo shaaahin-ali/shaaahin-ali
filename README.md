@@ -1,55 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shahin%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Backend%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Open%20Source&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahin%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahin-ali-thachaparamben)
-[![Twitter](https://img.shields.io/badge/Twitter-@shaaahin__ali-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaaahin_ali)
-[![Instagram](https://img.shields.io/badge/Instagram-@shaaahin__ali-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shaaahin_ali)
-[![Email](https://img.shields.io/badge/Email-shahinali.mec%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahinali.mec@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Shahin%20Ali&fontSize=72&fontColor=00d4ff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=62&descSize=18&fontStyle=bold&animation=twinkling" width="100%" />
 
 <br/>
 
-> *"Building AI systems that think, retrieve, and respond — without hallucinating."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+AI+that+thinks+before+it+speaks+%F0%9F%A7%A0;Semantic+Search+%7C+RAG+Pipelines+%7C+Full+Stack+AI;Pre-Final+Year+%40+GMEC+Kochi+%7C+CGPA+9.2)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shahinali&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/shahinali?style=for-the-badge&color=203a43&label=FOLLOWERS)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahin-ali-thachaparamben)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahinali.mec@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaaahin_ali)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shahinali&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/shahinali?style=for-the-badge&color=1a1a2e&labelColor=00d4ff&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=shahinali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" />
+
+## 🧑‍💻 Who Am I?
 
 ```python
 class ShahinAli:
-    name       = "Shahin Ali"
-    role       = "AI Backend Developer & Full Stack Engineer"
-    college    = "Govt. Model Engineering College, Kochi (KTU)"
-    degree     = "B.Tech Computer Science Engineering | CGPA: 9.2"
-    batch      = "2023 – 2027"
-    location   = "Kerala, India 🇮🇳"
-
-    current_focus = [
-        "Semantic retrieval systems & RAG pipelines",
-        "Hallucination-free AI Q&A (SeekRight)",
-        "Cloud Computing (NPTEL – IIT Kharagpur)",
-        "Machine Learning & AI Engineering",
+    role     = "AI Backend + Full Stack Developer"
+    college  = "Govt. Model Engineering College, Kochi"
+    degree   = "B.Tech CSE | CGPA: 9.2 | Batch: 2027"
+    location = "Kerala, India 🇮🇳"
+    
+    currently_building = [
+        "SeekRight — hallucination-free RAG engine",
+        "AI systems with real-world impact",
+        "Production-grade full stack products"
     ]
-
-    specialties = [
-        "Vector Embeddings & FAISS",
-        "FastAPI Backend Architecture",
-        "Chrome Extension Development",
-        "Disaster-Tech & Civic Tech",
+    
+    superpowers = [
+        "Semantic Search & Vector Embeddings",
+        "FastAPI Backend Architecture",  
+        "AI-Assisted Development (Cursor + Claude)",
+        "Chrome Extension APIs"
     ]
-
-    fun_facts = {
-        "hobbies":   ["Reading 📚", "Sketching ✏️", "Football ⚽"],
-        "leadership": "Chief Publicity Officer @ IEDC MEC 2025",
-        "hackathon":  "IEEE MAGIC 3.0 — Built library mgmt system in 24hrs",
-    }
+    
+    fun = ["Reading 📚", "Sketching ✏️", "Football ⚽"]
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -60,77 +60,95 @@ class ShahinAli:
 <td width="50%" valign="top">
 
 ### 🔍 SeekRight
-**AI-Powered Lecture Retrieval Engine**
+> *Transcript-grounded semantic retrieval — answers without hallucinating*
 
-> *Transcript-grounded semantic search that answers without hallucinating*
+**The Problem:** Watching 2-hour lecture videos just to find one concept is painful.  
+**The Solution:** AI that watches for you, understands semantics, and retrieves exactly what you need.
 
-- 🧩 Multi-stage video ingestion pipeline
-- ⚡ FAISS vector-based similarity search
-- 🎙️ Whisper-powered transcription
-- 🛡️ Hallucination-free Q&A via RAG
+```
+📹 Video → 🎙️ Whisper Transcription
+       → 🧩 Structured Embeddings (FAISS)
+       → ❓ Your Question
+       → ✅ Grounded Answer (no hallucination)
+```
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-FF6B35?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FFD21E?style=flat-square)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
-**Team:** 3 members &nbsp;|&nbsp; 🟢 Ongoing
+`Team: 3` &nbsp;|&nbsp; 🟢 **Ongoing**
 
 </td>
 <td width="50%" valign="top">
 
-### 🆘 Sahay Kerala
-**Disaster Response Platform**
+### 📋 TenderLens
+> *AI-powered RFP compliance automation — from 20 hours to 5 minutes*
 
-> *Real-time crisis coordination with role-based access*
+**The Problem:** Procurement teams spend 20-30 hours manually validating vendor documents.  
+**The Solution:** Semantic embeddings that understand meaning, not just keywords.
 
-- 🔐 JWT Authentication + RBAC (Volunteer/User)
-- 📡 Real-time request processing
-- 🧱 Modular, scalable API design
-- 🗄️ PostgreSQL + SQLAlchemy backend
+```
+📄 RFP + Vendor Docs → 🤗 HuggingFace Embeddings
+       → 🔍 Semantic Matching
+       → ⚠️  Gap Detection ("we aim to...")
+       → 📊 Instant Compliance Report
+```
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ReportLab](https://img.shields.io/badge/ReportLab-CC0000?style=flat-square)
 
-**Solo Project** &nbsp;|&nbsp; ✅ 4 months
+`Solo` &nbsp;|&nbsp; ✅ **2 months** &nbsp;|&nbsp; 📈 **Used by 20+ teams**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ Deepfake Detection Extension
-**Real-Time AI Media Verification**
+### 🆘 Sahay Kerala
+> *Disaster response platform — built for real crises, real people*
 
-> *Browser extension that spots deepfakes before you share*
+**The Problem:** During disasters, coordination between volunteers and victims is chaotic.  
+**The Solution:** Real-time platform with role-based access that keeps rescue organized.
 
-- 🔍 Analyzes 50+ images per session
-- ☁️ Cloudflare Workers for edge inference
-- 🤗 Hugging Face models at low latency
-- 📊 Confidence-based prediction scores
+```
+🆘 Request → 🔐 JWT Auth (RBAC)
+         → 📡 Real-time Processing  
+         → 👨‍🚒 Volunteer Assignment
+         → ✅ Resolution Tracked
+```
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome_API-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Solo Project** &nbsp;|&nbsp; ✅ 4 months
+`Solo` &nbsp;|&nbsp; ✅ **4 months**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 More Coming Soon...
+### 🕵️ Deepfake Detection Extension
+> *Real-time AI media verification right in your browser*
 
-Currently building in the intersections of:
+**The Problem:** Deepfakes are everywhere. Verification tools require uploading files to sketchy sites.  
+**The Solution:** Browser-native edge inference — analyze 50+ images instantly, no upload needed.
 
-- **AI + Education** — intelligent tutoring tools
-- **Edge AI** — low-latency browser-native inference
-- **Civic Tech** — systems that matter in the real world
+```
+🖼️ Image → ☁️ Cloudflare Workers (Edge)
+        → 🤗 HuggingFace Inference API
+        → 📊 Confidence Score
+        → ✅ Real or 🚨 Deepfake
+```
 
-> *"I build things that work where it counts."*
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome_API-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
-📬 Want to collaborate? [Let's talk](mailto:shahinali.mec@gmail.com)
+`Solo` &nbsp;|&nbsp; ✅ **4 months** &nbsp;|&nbsp; ⚡ **50+ images/session**
 
 </td>
 </tr>
@@ -140,50 +158,58 @@ Currently building in the intersections of:
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 💬 Languages
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Beginner-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & AI/ML
+### ⚙️ Backend & AI/ML
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-FF6B35?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS_Vector_Search-FF6B35?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF9500?style=for-the-badge)
 
-### Database & Infrastructure
+### 🗄️ Databases & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2222?style=for-the-badge)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Tools & Concepts
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-2c5364?style=for-the-badge)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![SMTP](https://img.shields.io/badge/SMTP_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+### 🤖 AI Development Tools
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahinali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahinali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9A7&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahinali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahinali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shahinali&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C9A7&ring=00C9A7&fire=ff6b35&currStreakLabel=00C9A7)
+![GitHub Streak](https://streak-stats.demolab.com?user=shahinali&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff)
+
+<br/>
+
+[![Shahin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahinali&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -191,16 +217,19 @@ Currently building in the intersections of:
 
 ## 🏆 Achievements & Certifications
 
-| 🏅 Achievement | Details |
-|---|---|
-| 🎓 **Honours Degree** | Pursuing Honours in CS Engineering — KTU |
-| ☁️ **Cloud Computing** | NPTEL Certification — IIT Kharagpur |
-| 🐍 **Python** | Kaggle Certification — Core programming & problem solving |
-| 💡 **IEEE MAGIC 3.0** | Built a library management system in 24 hours (team of 4) |
-| 🧠 **NLP Workshop** | 3-day intensive workshop by ICFOSS |
-| 🚁 **Drone Workshop** | Excel MEC 2025 — Govt. Model Engineering College |
-| 🤖 **ADK Workshop** | Agent Development Kit Hands-on — Excel MEC 2025 |
-| 📣 **Chief Publicity Officer** | IEDC MEC 2025 — Led publicity for startup events |
+<div align="center">
+
+| 🏅 | Achievement | Detail |
+|:---:|---|---|
+| 🎓 | **Honours Degree** | Pursuing Honours in CS Engineering — KTU |
+| ☁️ | **Cloud Computing** | NPTEL Certification — IIT Kharagpur |
+| 🐍 | **Python** | Kaggle Certified — Core programming & hands-on problem solving |
+| 🧠 | **NLP Workshop** | 3-day intensive — ICFOSS |
+| 🤖 | **Agent Development Kit** | Hands-on Workshop — Excel MEC 2025 |
+| 🚁 | **Drone Workshop** | Excel MEC 2025 — GMEC |
+| ⚡ | **IEEE MAGIC 3.0** | Built library management system in 24 hours — Top 10 |
+
+</div>
 
 ---
 
@@ -208,25 +237,43 @@ Currently building in the intersections of:
 
 <div align="center">
 
-| Role | Organization | Focus |
+| Role | Organization | What I Did |
 |---|---|---|
-| 👑 Chief Publicity Officer | IEDC MEC 2025 | Startup event marketing |
-| 🎨 Design & Management Team | Excel MEC | Event organization & ops |
-| 🖼️ Design Team Member | IEDC MEC | Promotional visuals & posters |
+| 👑 **Chief Publicity Officer** | IEDC MEC 2025 | Led all marketing and publicity for startup events |
+| 🎨 **Design & Management** | Excel MEC | Organized and managed large-scale technical events |
+| 🖼️ **Design Team** | IEDC MEC | Created promotional visuals and posters for tech events |
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 💡 What I'm Currently Exploring
+
+```
+🔬 RAG Pipelines & Retrieval Augmented Generation
+🌐 Edge AI — low-latency browser-native inference
+⚡ Agentic Workflows & LLM Orchestration
+📐 Scalable API Architecture with FastAPI
+🎯 AI-Assisted Development with Cursor & Windsurf
+```
+
+---
+
+## 📫 Let's Build Something Together
 
 <div align="center">
 
-I'm always open to **internship opportunities**, **open-source collaborations**, and **interesting AI/ML projects**.
+> *"I don't just use AI — I build with it, think with it, and ship with it."*
 
-[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-shahinali.mec%40gmail.com-D14836?style=for-the-badge)](mailto:shahinali.mec@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/shahin-ali-thachaparamben)
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Follow-1DA1F2?style=for-the-badge)](https://twitter.com/shaaahin_ali)
+<br/>
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-shahinali.mec@gmail.com-D14836?style=for-the-badge)](mailto:shahinali.mec@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0077B5?style=for-the-badge)](https://linkedin.com/in/shahin-ali-thachaparamben)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge)](https://twitter.com/shaaahin_ali)
+
+<br/>
+
+**Open to:** Internships &nbsp;•&nbsp; Open Source Collaborations &nbsp;•&nbsp; AI/ML Projects &nbsp;•&nbsp; Full Stack Builds
 
 </div>
 
@@ -234,8 +281,8 @@ I'm always open to **internship opportunities**, **open-source collaborations**,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20from%20Kerala&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=140&section=footer&text=Built+from+Kerala+%F0%9F%87%AE%F0%9F%87%B3+with+Code+%26+Caffeine&fontSize=16&fontColor=00d4ff&fontAlignY=65" width="100%" />
 
-*⭐ If you find my work interesting, consider starring a repo or dropping a message!*
+*⭐ If my work resonates with you — star a repo, drop a message, or let's just talk AI.*
 
 </div>
